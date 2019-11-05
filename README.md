@@ -1,4 +1,4 @@
-# Naming and Identifiers
+# Lesson 02 - Naming and Identifiers
 
 ### Exercise: Putting on a Show
 Your friend is done with the pet show. With your help, it was a big success. Now your friend is putting on a concert. Tickets are for sale at $10 per ticket. The room rental is $50. Making posters for the show costs $40. Help your friend figure out if the show is going to make money or lose money.
